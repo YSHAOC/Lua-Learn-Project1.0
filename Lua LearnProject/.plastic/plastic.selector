@@ -1,0 +1,4 @@
+repository "Lua LearnProject@ssl://wechat_os_qy0y8bxaep6k5txppsmcuzugk@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1156536243" 
+     
